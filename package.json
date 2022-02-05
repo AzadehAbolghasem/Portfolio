@@ -1,37 +1,37 @@
 {
-  "name": "portfolio",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node ./server.js"
-  },
-  "engines": {
-    "node": "^12.00.0",
-    "npm": "^6.0.0"
-  },
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.14.0",
-    "bootstrap": "^4.5.2",
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "ejs": "~2.6.1",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "jquery": "^3.5.1",
-    "morgan": "~1.9.1",
-    "popper.js": "^1.16.1"
-  },
-  "description": "assignment",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AzadehAbolghasem/Portfolio.git"
-  },
-  "author": "Azadeh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AzadehAbolghasem/Portfolio.git"
-  },
-  "homepage": "https://github.com/AzadehAbolghasem/Portfolio.git#readme"
+    "name": "portfolio",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node ./server.js"
+    },
+    "engines": {
+        "node": "^10.00.0",
+        "npm": "^6.0.0"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.14.0",
+        "bootstrap": "^4.5.2",
+        "cookie-parser": "~1.4.4",
+        "debug": "~2.6.9",
+        "ejs": "~2.6.1",
+        "express": "~4.16.1",
+        "http-errors": "~1.6.3",
+        "jquery": "^3.5.1",
+        "morgan": "~1.9.1",
+        "popper.js": "^1.16.1"
+    },
+    "description": "assignment",
+    "main": "index.js",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AzadehAbolghasem/Portfolio.git"
+    },
+    "author": "Azadeh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AzadehAbolghasem/Portfolio.git"
+    },
+    "homepage": "https://github.com/AzadehAbolghasem/Portfolio.git#readme"
 }
